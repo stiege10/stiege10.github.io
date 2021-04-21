@@ -20,4 +20,4 @@ The results were different with every unarchiver:
 
 This last result got me thinking I was doing something wrong with the paths, since Windows and Mac Os are using a different folder separator.
 
-Indeed it turned out that I was not removing leading forward-slash, so the folder and files I added to the zip-file were something like `//path/to/filename` instead of `/path/to/filename`.
+Indeed it turned out that I was not removing a leading forward-slash, so the folder and files I added to the zip-file were something like `//path/to/filename` instead of `/path/to/filename`.

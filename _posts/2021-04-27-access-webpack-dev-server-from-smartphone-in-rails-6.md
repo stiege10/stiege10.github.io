@@ -1,6 +1,7 @@
 ---
 title: Access webpack-dev-server from smartphone in Rails 6
 tags: rails webpack
+author: mrusa
 ---
 
 1. ensure your smartphone and desktop machine are in the same local network 

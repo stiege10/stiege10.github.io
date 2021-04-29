@@ -2,8 +2,8 @@
 layout: post
 title:  "Increase upload limit for nginx serving wordpress"
 date:   2021-04-20
-categories: wordpress nginx
 author: mrusa
+tags: wordpress nginx
 ---
 
 Had troubles uploading a big wordpress theme.

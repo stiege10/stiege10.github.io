@@ -2,7 +2,7 @@
 layout: post
 title:  "Hidden folders in zip archive on windows"
 date:   2021-04-16
-categories: jekyll update
+tags: jekyll update
 author: mrusa
 ---
 
